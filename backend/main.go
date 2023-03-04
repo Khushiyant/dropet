@@ -9,6 +9,7 @@ import (
 
 	"github.com/labstack/echo"
 	"github.com/sirupsen/logrus"
+	"github.com/digitalocean/godo"
 )
 
 var logger = logrus.New()
